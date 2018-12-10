@@ -3,22 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://snowzhaoo.github.io/post/first/</loc>
+    <lastmod>2018-12-10T13:08:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snowzhaoo.github.io/about/</loc>
+    <lastmod>2018-12-10T13:08:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snowzhaoo.github.io/series/blog%E5%85%BB%E6%88%90%E8%AE%B0/</loc>
+    <lastmod>2018-12-10T13:08:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://snowzhaoo.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://snowzhaoo.github.io/tags/hugo/</loc>
+    <lastmod>2018-12-10T13:08:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://snowzhaoo.github.io/</loc>
+    <lastmod>2018-12-10T13:08:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snowzhaoo.github.io/post/</loc>
+    <lastmod>2018-12-10T13:08:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://snowzhaoo.github.io/series/</loc>
+    <lastmod>2018-12-10T13:08:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://snowzhaoo.github.io/tags/</loc>
+    <lastmod>2018-12-10T13:08:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snowzhaoo.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</loc>
+    <lastmod>2018-12-10T13:08:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
